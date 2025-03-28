@@ -1,5 +1,5 @@
 x = 12
-x -= 2 # decrement the x value by 3
+x -= 2  # decrement the x value by 3
 print(x)
 
 y = 5

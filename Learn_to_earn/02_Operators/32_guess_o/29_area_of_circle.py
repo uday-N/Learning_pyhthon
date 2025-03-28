@@ -15,5 +15,5 @@
 # // step03 //
 
 r = float(input("Enter the radius of the circle:\n"))
-area = 3.14*(r ** 2)
+area = 3.14 * (r ** 2)
 print(f"area of circle is : {area}")
